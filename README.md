@@ -1,6 +1,6 @@
-# TUTION_DB
+# TuitionDB
 
-TUTION_DB is a simple SQLite-based database management system for a tuition center. It allows you to manage courses, subjects, students, and teachers.
+TuitionDB is a simple SQLite-based database management system for a tuition center. It allows you to manage courses, subjects, students, and teachers.
 
 ## Features
 
