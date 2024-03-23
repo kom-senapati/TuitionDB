@@ -13,7 +13,7 @@ TuitionDB is a simple SQLite-based database management system for a tuition cent
 
 To get started with the TUTION_DB project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/KOMNOOB/TUTION_DB.git`
+1. Clone the repository: `git clone https://github.com/KOMNOOB/TuitionDB.git`
 2. Install the required dependencies: `pip install rich faker tabulate`
 3. Run the application: `python main.py`
 
